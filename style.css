@@ -1,0 +1,10 @@
+.clock a{
+    color: #444444;
+    text-decoration: none;
+    background: #f3f3f3;
+    border: 1px solid #dadada;
+    padding: 5px 10px;
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: 14px;
+}
