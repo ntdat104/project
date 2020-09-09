@@ -121,8 +121,8 @@ body.light .mn::before{
 
 .toggleClass{
     position: absolute;
-    top: 30px;
-    right: 150px;
+    top: 20px;
+    right: 100px;
     width: 20px;
     height: 20px;
     font-size: 14px;
